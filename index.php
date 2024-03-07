@@ -1,3 +1,2 @@
 <?php
-
-    echo "Hi developer";
+    echo "MPESA INTEGRATION";
